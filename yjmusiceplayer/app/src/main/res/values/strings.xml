@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Assignment2 Weijie Ye and Shuxin Zheng</string>
+    <string name="login">login</string>
+    <string name="logout">exit</string>
+    <string name="username">Name:</string>
+    <string name="pre_music">pre</string>
+    <string name="play">play</string>
+    <string name="pause">pause</string>
+    <string name="next_music">next</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="title_activity_widget_configure">WidgetConfigureActivity</string>
+    <string name="submit">submit</string>
+</resources>

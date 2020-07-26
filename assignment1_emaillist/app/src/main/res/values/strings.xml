@@ -1,0 +1,165 @@
+<resources>
+    <string name="app_name">EmailList</string>
+    <string name="action_sort">Sort</string>
+    <string name="action_settings">Settings</string>
+
+
+    <!--
+      EMAIL format:
+
+      date
+      subject title
+      author
+      email body
+    -->
+
+    <string-array name="email_0">
+        <item>April 15 2003</item>
+        <item>re: visiting scholar</item>
+        <item>Michael Goldbloom</item>
+        <item>A significant number of journalists say that proprietors views are having an impact not just on editorials, which is understandable, but on the selection of news and how it is covered. That crosses a significant boundary, because a fundamental principle of journalism is that no ones views and interests affect how the news is covered.</item>
+    </string-array>
+
+    <string-array name="email_1">
+        <item>September 15 2019</item>
+        <item>re: Saudis</item>
+        <item>Donald J. Trump</item>
+        <item>Saudi Arabia oil supply was attacked. There is reason to believe that we know the culprit, are locked and loaded depending on verification, but are waiting to hear from the Kingdom as to who they believe was the cause of this attack, and under what terms we would proceed!</item>
+    </string-array>
+
+    <string-array name="email_2">
+        <item>July 10 2015</item>
+        <item>re: my private server</item>
+        <item>Hillary R. Clinton</item>
+        <item>Everything I did was permitted. There was no law. There was no regulation. There was nothing that did not give me the full authority to decide how I was going to communicate. Previous secretaries of state have said they did the same thing ... Everything I did was permitted by law and regulation. I had one device. When I mailed anybody in the government, it would go into the government system</item>
+    </string-array>
+
+    <string-array name="email_3">
+        <item>February 22 1788</item>
+        <item>On Knowledge</item>
+        <item>Arthur Schopenhauer</item>
+        <item>As the biggest library if it is in disorder is not as useful as a small but well-arranged one, so you may accumulate a vast amount of knowledge but it will be of far less value than a much smaller amount if you have not thought it over for yourself.</item>
+    </string-array>
+
+    <string-array name="email_4">
+        <item>December 3 1932</item>
+        <item>dear colleagues</item>
+        <item>Albert Einstein</item>
+        <item>I speak to everyone in the same way, whether he is the garbage man or the president of the university.</item>
+    </string-array>
+
+    <string-array name="email_5">
+        <item>February 5 1797</item>
+        <item>Dear Sir</item>
+        <item>John Adams</item>
+        <item>Sitting at My Fireside, with my Daughter Smith, on the first of February My Servant brought me a Bundle of Letters and Newspapers from the Post office in this Town: one of the first Letters that Struck my Eye, had the Post Mark of Milton 23. Jany 1812. Milton is the next Town to Quincy and the Post office in it is but three Miles from my House. How could the Letter be So long in coming three miles? Reading the Superscription I instantly handed the Letter to Mrs Smith. Is not that Mr Jeffersons hand? Looking attentively at it, She answered it is very like it. How is it possible a Letter from Mr Jefferson, could get into the Milton Post office?</item>
+    </string-array>
+
+    <string-array name="email_6">
+        <item>September 25 1903</item>
+        <item>fwd: do not give up!</item>
+        <item>Marie Curie</item>
+        <item>Life is not easy for any of us. But what of that? We must have perseverance and above all confidence in ourselves. We must believe that we are gifted for something and that this thing must be attained.</item>
+    </string-array>
+
+    <string-array name="email_7">
+        <item>October 12 1965</item>
+        <item>my friend the artist</item>
+        <item>Richard Feynman</item>
+        <item>I have a friend who is an artist and has sometimes taken a view which I do not agree with very well. He will hold up a flower and say look how beautiful it is, and I will agree. Then he says I as an artist can see how beautiful this is but you as a scientist take this all apart and it becomes a dull thing, and I think that he is kind of nutty. First of all, the beauty that he sees is available to other people and to me too, I believe. Although I may not be quite as refined aesthetically as he is ... I can appreciate the beauty of a flower. At the same time, I see much more about the flower than he sees. I could imagine the cells in there, the complicated actions inside, which also have a beauty. I mean it is not just beauty at this dimension, at one centimeter; there is also beauty at smaller dimensions, the inner structure, also the processes. The fact that the colors in the flower evolved in order to attract insects to pollinate it is interesting; it means that insects can see the color. It adds a question: does this aesthetic sense also exist in the lower forms? Why is it aesthetic? All kinds of interesting questions which the science knowledge only adds to the excitement, the mystery and the awe of a flower. It only adds. I do not understand how it subtracts.</item>
+    </string-array>
+
+    <string-array name="email_8">
+        <item>April 5 2019</item>
+        <item>Letter from the principal</item>
+        <item>Denise Lauziere</item>
+        <item>Good afternoon Mr. Butler,
+                Please find attached a Letter of Offer signed by the Principal.
+                The original will be sent to you in the mail.</item>
+    </string-array>
+
+    <string-array name="email_9">
+        <item>June 4 1940</item>
+        <item>We shall fight!</item>
+        <item>Winston S. Churchill</item>
+        <item>We shall go on to the end, we shall fight in France, we shall fight on the seas and oceans, we shall fight with growing confidence and growing strength in the air, we shall defend our Island, whatever the cost may be, we shall fight on the beaches, we shall fight on the landing grounds, we shall fight in the fields and in the streets, we shall fight in the hills; we shall never surrender.</item>
+    </string-array>
+
+    <string-array name="email_10">
+        <item>April 3 1968</item>
+        <item>fwd: Mountaintop</item>
+        <item>Martin Luther King</item>
+        <item>We have got some difficult days ahead. But it really does not matter with me now because I have been to the mountaintop . . .I have looked over and I have seen the promised land. I may not get there with you. But I want you to know tonight that we as a people will get to the promised land.</item>
+    </string-array>
+
+    <string-array name="email_11">
+        <item>Nov 16 2013</item>
+        <item>UFC 167</item>
+        <item>Georges St. Pierre</item>
+        <item>For me, personally, when I an afraid of something - when you are afraid of something, normally you try to go away, you try to avoid it. Instead of avoiding it, to overcome your fear, I believe you need to embrace it.</item>
+    </string-array>
+
+    <string-array name="email_12">
+        <item>June 3 2018</item>
+        <item>re: my latest instagram</item>
+        <item>Selena Gomez</item>
+        <item>I do not take anything in my personal life too seriously. I have great friends and a solid group of people I love. I feel like everything else will come organically.</item>
+    </string-array>
+
+    <string-array name="email_13">
+        <item>May 2 1956</item>
+        <item>Caltech lunch forum</item>
+        <item>Richard Feynman</item>
+        <item>In this age of specialization men who thoroughly know one field are often incompetent to discuss another. The great problems of the relations between one and another aspect of human activity have for this reason been discussed less and less in public. When we look at the past great debates on these subjects we feel jealous of those times, for we should have liked the excitement of such argument. The old problems, such as the relation of science and religion, are still with us, and I believe present as difficult dilemmas as ever, but they are not often publicly discussed because of the limitations of specialization.</item>
+    </string-array>
+
+    <string-array name="email_14">
+        <item>November 1 1987</item>
+        <item>build baby build</item>
+        <item>Donald J. Trump</item>
+        <item>I own buildings. Im a builder; I know how to build. Nobody can build like I can build. Nobody. And the builders in New York will tell you that. I build the best product. And my name helps a lot.</item>
+    </string-array>
+
+    <string-array name="email_15">
+        <item>October 9 2012</item>
+        <item>re: my support</item>
+        <item>Malala Yousafzai</item>
+        <item>In countries other than Pakistan - I will not necessarily call them Western - people support me. This is because people there respect others. They do not do this because I am a Pashtun or a Punjabi, a Pakistani, or an Iranian, they do it because of your words and character. This is why I am being respected and supported there.</item>
+    </string-array>
+
+    <string-array name="email_16">
+        <item>December 10 1962</item>
+        <item>re: my acids</item>
+        <item>Francis Crick</item>
+        <item>It seems likely that most if not all the genetic information in any organism is carried by nucleic acid - usually by DNA, although certain small viruses use RNA as their genetic material.</item>
+    </string-array>
+
+    <string-array name="email_17">
+        <item>July 11 1923</item>
+        <item>the truth</item>
+        <item>Albert Einstein</item>
+        <item>whoever is careless with the truth in small matters cannot be trusted with important matters</item>
+    </string-array>
+
+    <string-array name="email_18">
+        <item>September 22 -58</item>
+        <item>re: the troop morale</item>
+        <item>Julius Caesar</item>
+        <item>During a few days halt near Vesontio for the provision of corn and other supplies, a panic arose from inquiries made by our troops and remarks uttered by Gauls and traders, who affirmed that the Germans were men of a mighty frame and an incredible valour and skill at arms.</item>
+    </string-array>
+
+    <string-array name="email_19">
+        <item>December 10 1911</item>
+        <item>ugh</item>
+        <item>Marie Curie</item>
+        <item>Sometimes I had to spend a whole day mixing a boiling mass with a heavy iron rod nearly as large as myself. I would be broken with fatigue at the days end. Other days, on the contrary, the work would be a most minute and delicate fractional crystallization, in the effort to concentrate the radium.</item>
+    </string-array>
+
+    <string-array name="email_20">
+        <item>January 4 1663</item>
+        <item>can we be certain?</item>
+        <item>Isaac Newton</item>
+        <item>If anyone offers conjectures about the truth of things from the mere possibility of hypotheses, I do not see by what stipulation anything certain can be determined in any science, since one or another set of hypotheses may always be devised which will appear to supply new difficulties.</item>
+    </string-array>
+
+</resources>
